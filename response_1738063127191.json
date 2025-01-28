@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "firstname": "Pasha",
+    "age": 40,
+    "username": "user1",
+    "lastname": "Technique",
+    "slug": "user1"
+  },
+  {
+    "id": 3,
+    "firstname": "Bear",
+    "age": 50,
+    "username": "user3",
+    "lastname": "Grylls",
+    "slug": "user3"
+  }
+]
